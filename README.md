@@ -6,12 +6,12 @@ The aim of the project was to add to the JavaScript code to make the program fun
 
 ## Screenshots
 
-![Screenshot1](Assets/Images/Screenshots/Screenshot1.png)
+![Screenshot1](Screenshots/Screenshot1.png)
 
-![Screenshot2](Assets/Images/Screenshots/Screenshot2.png)
+![Screenshot2](Screenshots/Screenshot2.png)
 
-![Screenshot3](Assets/Images/Screenshots/Screenshot3.png)
+![Screenshot3](Screenshots/Screenshot3.png)
 
 ## Link
 
-https://cbarnes0.github.io/Advanced-CSS-Portfolio/
+https://cbarnes0.github.io/JavaScript-Password-Generator/
